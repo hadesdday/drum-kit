@@ -1,3 +1,2 @@
-# drum-kit
-- Drum kit simulator
+# Drum kit simulator
 - Technichal : HTML,CSS,Javascript
